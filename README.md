@@ -10,3 +10,7 @@ To use an already built container:
 Or you can build it from this source:
 
 `docker build -t your-organization/ruby-1.8.7p352`
+
+NOTE: You can always get the most current ruby 1.8 container this way:
+
+`docker pull octohost/ruby-1.8`
